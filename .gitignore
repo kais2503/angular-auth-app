@@ -54,3 +54,7 @@ jspm_packages/
 
 # dotenv environment variables file
 .env
+
+# node_modules
+/node_modules
+/node_modules/*
